@@ -1,0 +1,751 @@
+2015-11-10 15:26:56 10fc InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2015-11-10 15:26:56 4348 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2015-11-10 15:26:56 4348 [Note] InnoDB: The InnoDB memory heap is disabled
+2015-11-10 15:26:56 4348 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2015-11-10 15:26:56 4348 [Note] InnoDB: Memory barrier is not used
+2015-11-10 15:26:56 4348 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2015-11-10 15:26:56 4348 [Note] InnoDB: Not using CPU crc32 instructions
+2015-11-10 15:26:56 4348 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2015-11-10 15:26:56 4348 [Note] InnoDB: Completed initialization of buffer pool
+2015-11-10 15:26:56 4348 [Note] InnoDB: Highest supported file format is Barracuda.
+2015-11-10 15:26:57 4348 [Note] InnoDB: 128 rollback segment(s) are active.
+2015-11-10 15:26:57 4348 [Note] InnoDB: Waiting for purge to start
+2015-11-10 15:26:57 4348 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.26-74.0 started; log sequence number 1835027
+2015-11-10 15:26:57 6140 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2015-11-10 15:26:57 4348 [Note] Plugin 'FEEDBACK' is disabled.
+2015-11-10 15:26:57 4348 [Note] Server socket created on IP: '::'.
+2015-11-10 15:26:57 4348 [Note] Event Scheduler: Loaded 0 events
+2015-11-10 15:26:57 4348 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2015-11-10 15:27:11 5152 [Note] C:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+2015-11-10 15:27:11 5152 [Note] Event Scheduler: Purging the queue. 0 events
+2015-11-10 15:27:11 5732 [Note] InnoDB: FTS optimize thread exiting.
+2015-11-10 15:27:11 5152 [Note] InnoDB: Starting shutdown...
+2015-11-10 15:27:13 5152 [Note] InnoDB: Shutdown completed; log sequence number 1835037
+2015-11-10 15:27:13 5152 [Note] C:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+2017-04-20 10:27:57 1950 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2017-04-20 10:27:57 6480 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-04-20 10:27:57 6480 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-04-20 10:27:57 6480 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-04-20 10:27:57 6480 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2017-04-20 10:27:57 6480 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2017-04-20 10:27:57 6480 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-04-20 10:27:57 6480 [Note] InnoDB: Using generic crc32 instructions
+2017-04-20 10:27:57 6480 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-04-20 10:27:57 6480 [Note] InnoDB: Completed initialization of buffer pool
+2017-04-20 10:27:57 6480 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-04-20 10:27:57 6480 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-04-20 10:27:57 6480 [Note] InnoDB: Waiting for purge to start
+2017-04-20 10:27:57 6480 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1835037
+2017-04-20 10:27:57 4452 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-04-20 10:27:57 6480 [Note] Plugin 'FEEDBACK' is disabled.
+2017-04-20 10:27:57 6480 [Note] Server socket created on IP: '::'.
+2017-04-20 10:27:57 6480 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2017-04-20 10:30:47 318c InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2017-04-20 10:30:47 12684 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-04-20 10:30:47 12684 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-04-20 10:30:47 12684 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-04-20 10:30:47 12684 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2017-04-20 10:30:47 12684 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2017-04-20 10:30:47 12684 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-04-20 10:30:47 12684 [Note] InnoDB: Using generic crc32 instructions
+2017-04-20 10:30:47 12684 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-04-20 10:30:47 12684 [Note] InnoDB: Completed initialization of buffer pool
+2017-04-20 10:30:47 12684 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-04-20 10:30:47 12684 [Note] InnoDB: The log sequence numbers 1835037 and 1835037 in ibdata files do not match the log sequence number 1835047 in the ib_logfiles!
+2017-04-20 10:30:47 12684 [Note] InnoDB: Database was not shutdown normally!
+2017-04-20 10:30:47 12684 [Note] InnoDB: Starting crash recovery.
+2017-04-20 10:30:47 12684 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-04-20 10:30:47 12684 [Note] InnoDB: Restoring possible half-written data pages 
+2017-04-20 10:30:47 12684 [Note] InnoDB: from the doublewrite buffer...
+2017-04-20 10:30:47 12684 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-04-20 10:30:47 12684 [Note] InnoDB: Waiting for purge to start
+2017-04-20 10:30:47 12684 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1835047
+2017-04-20 10:30:47 7216 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-04-20 10:30:47 12684 [Note] Plugin 'FEEDBACK' is disabled.
+2017-04-20 10:30:47 12684 [Note] Server socket created on IP: '::'.
+2017-04-20 10:30:47 12684 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2017-04-20 10:34:32 12632 [Warning] InnoDB: Cannot open table mine@002dcraft@002dmods/news from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:34:37 12632 [Warning] InnoDB: Cannot open table mine@002dcraft@002dmods/category from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:35:20 12632 [Warning] InnoDB: Cannot open table mine@002dcraft@002dmods/comment from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:35:22 12632 [Warning] InnoDB: Cannot open table mine@002dcraft@002dmods/html_content from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:39:07 12632 [ERROR] Invalid (old?) table or database name 'mine-craft-mods'
+2017-04-20 10:39:07 12632 [ERROR] Invalid (old?) table or database name 'mine-craft-mods'
+2017-04-20 10:39:07 12632 [Warning] InnoDB: Cannot open table mine-craft-mods/category from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:39:07 12632 [Warning] InnoDB: Cannot open table mine-craft-mods/comment from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:39:07 12632 [Warning] InnoDB: Cannot open table mine-craft-mods/html_content from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:39:07 12632 [Warning] InnoDB: Cannot open table mine-craft-mods/item from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:39:07 8072 [Warning] InnoDB: Cannot open table mine-craft-mods/item_type from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:39:07 8072 [Warning] InnoDB: Cannot open table mine-craft-mods/news from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:39:21 8072 [Warning] InnoDB: Cannot open table mine-craft-mods/html_content from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:40:29 8072 [ERROR] Invalid (old?) table or database name 'mine-craft-mods'
+2017-04-20 10:40:29 8072 [ERROR] Invalid (old?) table or database name 'mine-craft-mods'
+2017-04-20 10:40:29 8072 [Warning] InnoDB: Cannot open table mine-craft-mods/category from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:40:29 8072 [Warning] InnoDB: Cannot open table mine-craft-mods/comment from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:40:29 8072 [Warning] InnoDB: Cannot open table mine-craft-mods/html_content from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:40:29 8072 [Warning] InnoDB: Cannot open table mine-craft-mods/item from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:40:29 8072 [Warning] InnoDB: Cannot open table mine-craft-mods/item_type from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:40:29 8072 [Warning] InnoDB: Cannot open table mine-craft-mods/news from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:40:38 8072 [Warning] InnoDB: Cannot open table mine-craft-mods/category from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:41:07 8072 [ERROR] Invalid (old?) table or database name 'mine-craft-mods'
+2017-04-20 10:41:07 8072 [ERROR] Invalid (old?) table or database name 'mine-craft-mods'
+2017-04-20 10:41:07 8072 [Warning] InnoDB: Cannot open table mine-craft-mods/category from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:41:07 8072 [Warning] InnoDB: Cannot open table mine-craft-mods/comment from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:41:07 8072 [Warning] InnoDB: Cannot open table mine-craft-mods/html_content from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:41:07 8072 [Warning] InnoDB: Cannot open table mine-craft-mods/item from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:41:07 8072 [Warning] InnoDB: Cannot open table mine-craft-mods/item_type from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:41:07 8072 [Warning] InnoDB: Cannot open table mine-craft-mods/news from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2017-04-20 10:42:14 8120 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 10:42:14 8120 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 10:42:14 8120 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 10:42:14 8120 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 10:42:15 8120 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 10:42:15 8120 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 10:42:15 8120 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 10:42:15 8120 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 10:58:00 261c InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2017-04-20 10:58:00 9756 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-04-20 10:58:00 9756 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-04-20 10:58:00 9756 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-04-20 10:58:00 9756 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2017-04-20 10:58:00 9756 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2017-04-20 10:58:00 9756 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-04-20 10:58:00 9756 [Note] InnoDB: Using generic crc32 instructions
+2017-04-20 10:58:00 9756 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-04-20 10:58:00 9756 [Note] InnoDB: Completed initialization of buffer pool
+2017-04-20 10:58:00 9756 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-04-20 10:58:00 9756 [Note] InnoDB: The log sequence numbers 1835037 and 1835037 in ibdata files do not match the log sequence number 1868587 in the ib_logfiles!
+2017-04-20 10:58:00 9756 [Note] InnoDB: Database was not shutdown normally!
+2017-04-20 10:58:00 9756 [Note] InnoDB: Starting crash recovery.
+2017-04-20 10:58:00 9756 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-04-20 10:58:00 9756 [Note] InnoDB: Restoring possible half-written data pages 
+2017-04-20 10:58:00 9756 [Note] InnoDB: from the doublewrite buffer...
+2017-04-20 10:58:00 261c  InnoDB: Error: table 'mine_craft_mods/category'
+InnoDB: in InnoDB data dictionary has tablespace id 30,
+InnoDB: but a tablespace with that id does not exist. There is
+InnoDB: a tablespace of name mine_craft_mods/category and id 40, though. Have
+InnoDB: you deleted or moved .ibd files?
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+2017-04-20 10:58:00 9756 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-04-20 10:58:00 9756 [Note] InnoDB: Waiting for purge to start
+2017-04-20 10:58:00 9756 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1868587
+2017-04-20 10:58:00 12244 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-04-20 10:58:00 9756 [Note] Plugin 'FEEDBACK' is disabled.
+2017-04-20 10:58:00 9756 [Note] Server socket created on IP: '::'.
+2017-04-20 10:58:00 9756 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2017-04-20 10:58:06 12236 [ERROR] InnoDB: Failed to find tablespace for table '"mine_craft_mods"."category"' in the cache. Attempting to load the tablespace with space id 30.
+2017-04-20 10:58:06 2fcc  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 10:58:16 2fcc  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 10:58:26 2fcc  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 10:58:36 2fcc  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 10:58:46 2fcc  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 10:58:56 2fcc  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 10:59:07 2928 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2017-04-20 10:59:07 10536 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-04-20 10:59:07 10536 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-04-20 10:59:07 10536 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-04-20 10:59:07 10536 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2017-04-20 10:59:07 10536 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2017-04-20 10:59:07 10536 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-04-20 10:59:07 10536 [Note] InnoDB: Using generic crc32 instructions
+2017-04-20 10:59:07 10536 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-04-20 10:59:07 10536 [Note] InnoDB: Completed initialization of buffer pool
+2017-04-20 10:59:07 10536 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-04-20 10:59:07 10536 [Note] InnoDB: The log sequence numbers 1835037 and 1835037 in ibdata files do not match the log sequence number 1868597 in the ib_logfiles!
+2017-04-20 10:59:07 10536 [Note] InnoDB: Database was not shutdown normally!
+2017-04-20 10:59:07 10536 [Note] InnoDB: Starting crash recovery.
+2017-04-20 10:59:07 10536 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-04-20 10:59:07 10536 [Note] InnoDB: Restoring possible half-written data pages 
+2017-04-20 10:59:07 10536 [Note] InnoDB: from the doublewrite buffer...
+2017-04-20 10:59:07 2928  InnoDB: Error: table 'mine_craft_mods/category'
+InnoDB: in InnoDB data dictionary has tablespace id 30,
+InnoDB: but a tablespace with that id does not exist. There is
+InnoDB: a tablespace of name mine_craft_mods/category and id 40, though. Have
+InnoDB: you deleted or moved .ibd files?
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+2017-04-20 10:59:07 10536 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-04-20 10:59:07 10536 [Note] InnoDB: Waiting for purge to start
+2017-04-20 10:59:07 10536 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1868597
+2017-04-20 10:59:07 9048 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-04-20 10:59:07 10536 [Note] Plugin 'FEEDBACK' is disabled.
+2017-04-20 10:59:07 10536 [Note] Server socket created on IP: '::'.
+2017-04-20 10:59:07 10536 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2017-04-20 10:59:11 9232 [ERROR] InnoDB: Failed to find tablespace for table '"mine_craft_mods"."category"' in the cache. Attempting to load the tablespace with space id 30.
+2017-04-20 10:59:11 2410  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 10:59:21 2410  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 10:59:31 2410  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 10:59:35 2340 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2017-04-20 10:59:35 9024 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-04-20 10:59:35 9024 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-04-20 10:59:35 9024 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-04-20 10:59:35 9024 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2017-04-20 10:59:35 9024 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2017-04-20 10:59:35 9024 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-04-20 10:59:35 9024 [Note] InnoDB: Using generic crc32 instructions
+2017-04-20 10:59:35 9024 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-04-20 10:59:35 9024 [Note] InnoDB: Completed initialization of buffer pool
+2017-04-20 10:59:35 9024 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-04-20 10:59:35 9024 [Note] InnoDB: The log sequence numbers 1835037 and 1835037 in ibdata files do not match the log sequence number 1868607 in the ib_logfiles!
+2017-04-20 10:59:35 9024 [Note] InnoDB: Database was not shutdown normally!
+2017-04-20 10:59:35 9024 [Note] InnoDB: Starting crash recovery.
+2017-04-20 10:59:35 9024 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-04-20 10:59:36 9024 [Note] InnoDB: Restoring possible half-written data pages 
+2017-04-20 10:59:36 9024 [Note] InnoDB: from the doublewrite buffer...
+2017-04-20 10:59:36 2340  InnoDB: Error: table 'mine_craft_mods/category'
+InnoDB: in InnoDB data dictionary has tablespace id 30,
+InnoDB: but a tablespace with that id does not exist. There is
+InnoDB: a tablespace of name mine_craft_mods/category and id 40, though. Have
+InnoDB: you deleted or moved .ibd files?
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+2017-04-20 10:59:36 9024 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-04-20 10:59:36 9024 [Note] InnoDB: Waiting for purge to start
+2017-04-20 10:59:36 9024 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1868607
+2017-04-20 10:59:36 1812 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-04-20 10:59:36 9024 [Note] Plugin 'FEEDBACK' is disabled.
+2017-04-20 10:59:36 9024 [Note] Server socket created on IP: '::'.
+2017-04-20 10:59:36 9024 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2017-04-20 11:00:01 12300 [ERROR] InnoDB: Failed to find tablespace for table '"mine_craft_mods"."category"' in the cache. Attempting to load the tablespace with space id 30.
+2017-04-20 11:00:01 300c  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:00:11 300c  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:00:21 300c  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:00:36 2688 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2017-04-20 11:00:36 9864 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-04-20 11:00:36 9864 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-04-20 11:00:36 9864 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-04-20 11:00:36 9864 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2017-04-20 11:00:36 9864 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2017-04-20 11:00:36 9864 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-04-20 11:00:36 9864 [Note] InnoDB: Using generic crc32 instructions
+2017-04-20 11:00:36 9864 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-04-20 11:00:36 9864 [Note] InnoDB: Completed initialization of buffer pool
+2017-04-20 11:00:36 9864 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-04-20 11:00:36 9864 [Note] InnoDB: The log sequence numbers 1835037 and 1835037 in ibdata files do not match the log sequence number 1868769 in the ib_logfiles!
+2017-04-20 11:00:36 9864 [Note] InnoDB: Database was not shutdown normally!
+2017-04-20 11:00:36 9864 [Note] InnoDB: Starting crash recovery.
+2017-04-20 11:00:36 9864 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-04-20 11:00:36 9864 [Note] InnoDB: Restoring possible half-written data pages 
+2017-04-20 11:00:36 9864 [Note] InnoDB: from the doublewrite buffer...
+2017-04-20 11:00:37 2688  InnoDB: Error: table 'mine_craft_mods/category'
+InnoDB: in InnoDB data dictionary has tablespace id 30,
+InnoDB: but a tablespace with that id does not exist. There is
+InnoDB: a tablespace of name mine_craft_mods/category and id 40, though. Have
+InnoDB: you deleted or moved .ibd files?
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+2017-04-20 11:00:37 9864 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-04-20 11:00:37 9864 [Note] InnoDB: Waiting for purge to start
+2017-04-20 11:00:37 9864 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1868769
+2017-04-20 11:00:37 11720 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-04-20 11:00:37 9864 [Note] Plugin 'FEEDBACK' is disabled.
+2017-04-20 11:00:37 9864 [Note] Server socket created on IP: '::'.
+2017-04-20 11:00:37 9864 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2017-04-20 11:44:19 6dc  InnoDB: Operating system error number 80 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/operating-system-error-codes.html
+2017-04-20 11:44:19 1756 [ERROR] InnoDB: Cannot create file '.\mine_craft_mods\category.ibd'
+
+2017-04-20 11:44:19 1756 [ERROR] InnoDB: The file '.\mine_craft_mods\category.ibd' already exists though the corresponding table did not exist in the InnoDB data dictionary. Have you moved InnoDB .ibd files around without using the SQL commands DISCARD TABLESPACE and IMPORT TABLESPACE, or did mysqld crash in the middle of CREATE TABLE? You can resolve the problem by removing the file '.\mine_craft_mods\category.ibd' under the 'datadir' of MySQL.
+2017-04-20 11:44:33 1756 [Warning] InnoDB: Tablespace 'mine_craft_mods/category' exists in the cache with id 40 != 42
+2017-04-20 11:44:33 1756 [Warning] InnoDB: Freeing existing tablespace 'mine_craft_mods/category' entry from the cache with id 42
+2017-04-20 11:44:57 1756 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:44:57 1756 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:44:57 1756 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:44:57 1756 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:44:57 1756 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:44:57 1756 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:44:57 1756 [ERROR] InnoDB: Failed to find tablespace for table '"mine_craft_mods"."category"' in the cache. Attempting to load the tablespace with space id 30.
+2017-04-20 11:44:57 6dc  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:44:57 1756 [ERROR] InnoDB: Could not find a valid tablespace file for 'mine_craft_mods/category'. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html for how to resolve the issue.
+2017-04-20 11:44:57 1756 [Warning] InnoDB: Orphan table encountered during DROP DATABASE. This is possible if 'mine_craft_mods/category.frm' was lost.
+2017-04-20 11:44:57 1756 [Warning] InnoDB: Missing mine_craft_mods/category.ibd file for table mine_craft_mods/category.
+2017-04-20 11:45:21 2afc InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2017-04-20 11:45:21 11004 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-04-20 11:45:21 11004 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-04-20 11:45:21 11004 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-04-20 11:45:21 11004 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2017-04-20 11:45:21 11004 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2017-04-20 11:45:21 11004 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-04-20 11:45:21 11004 [Note] InnoDB: Using generic crc32 instructions
+2017-04-20 11:45:21 11004 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-04-20 11:45:21 11004 [Note] InnoDB: Completed initialization of buffer pool
+2017-04-20 11:45:21 11004 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-04-20 11:45:21 11004 [Note] InnoDB: The log sequence numbers 1835037 and 1835037 in ibdata files do not match the log sequence number 1889514 in the ib_logfiles!
+2017-04-20 11:45:21 11004 [Note] InnoDB: Database was not shutdown normally!
+2017-04-20 11:45:21 11004 [Note] InnoDB: Starting crash recovery.
+2017-04-20 11:45:21 11004 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-04-20 11:45:21 11004 [Note] InnoDB: Restoring possible half-written data pages 
+2017-04-20 11:45:21 11004 [Note] InnoDB: from the doublewrite buffer...
+2017-04-20 11:45:22 11004 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-04-20 11:45:22 11004 [Note] InnoDB: Waiting for purge to start
+2017-04-20 11:45:22 11004 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1889514
+2017-04-20 11:45:22 2352 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-04-20 11:45:22 11004 [Note] Plugin 'FEEDBACK' is disabled.
+2017-04-20 11:45:22 11004 [Note] Server socket created on IP: '::'.
+2017-04-20 11:45:22 11004 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2017-04-20 11:45:46 4860 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:45:46 4860 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:45:47 12fc  InnoDB: Operating system error number 80 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/operating-system-error-codes.html
+2017-04-20 11:45:47 4860 [ERROR] InnoDB: Cannot create file '.\mine_craft_mods\category.ibd'
+
+2017-04-20 11:45:47 4860 [ERROR] InnoDB: The file '.\mine_craft_mods\category.ibd' already exists though the corresponding table did not exist in the InnoDB data dictionary. Have you moved InnoDB .ibd files around without using the SQL commands DISCARD TABLESPACE and IMPORT TABLESPACE, or did mysqld crash in the middle of CREATE TABLE? You can resolve the problem by removing the file '.\mine_craft_mods\category.ibd' under the 'datadir' of MySQL.
+2017-04-20 11:46:02 4860 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:46:02 4860 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:46:02 12fc  InnoDB: Operating system error number 80 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/operating-system-error-codes.html
+2017-04-20 11:46:02 4860 [ERROR] InnoDB: Cannot create file '.\mine_craft_mods\category.ibd'
+
+2017-04-20 11:46:02 4860 [ERROR] InnoDB: The file '.\mine_craft_mods\category.ibd' already exists though the corresponding table did not exist in the InnoDB data dictionary. Have you moved InnoDB .ibd files around without using the SQL commands DISCARD TABLESPACE and IMPORT TABLESPACE, or did mysqld crash in the middle of CREATE TABLE? You can resolve the problem by removing the file '.\mine_craft_mods\category.ibd' under the 'datadir' of MySQL.
+2017-04-20 11:46:07 7424 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:46:07 7424 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:46:07 1d00  InnoDB: Operating system error number 80 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/operating-system-error-codes.html
+2017-04-20 11:46:07 7424 [ERROR] InnoDB: Cannot create file '.\mine_craft_mods\category.ibd'
+
+2017-04-20 11:46:07 7424 [ERROR] InnoDB: The file '.\mine_craft_mods\category.ibd' already exists though the corresponding table did not exist in the InnoDB data dictionary. Have you moved InnoDB .ibd files around without using the SQL commands DISCARD TABLESPACE and IMPORT TABLESPACE, or did mysqld crash in the middle of CREATE TABLE? You can resolve the problem by removing the file '.\mine_craft_mods\category.ibd' under the 'datadir' of MySQL.
+2017-04-20 11:47:34 4860 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:47:34 4860 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:47:34 4860 [Warning] InnoDB: Tablespace 'mine_craft_mods/category' exists in the cache with id 42 != 46
+2017-04-20 11:47:34 4860 [Warning] InnoDB: Freeing existing tablespace 'mine_craft_mods/category' entry from the cache with id 46
+2017-04-20 11:47:34 4860 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:47:34 4860 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:47:34 4860 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:47:34 4860 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:47:34 4860 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:47:34 4860 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:50:20 2d1c InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2017-04-20 11:50:20 11548 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-04-20 11:50:21 11548 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-04-20 11:50:21 11548 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-04-20 11:50:21 11548 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2017-04-20 11:50:21 11548 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2017-04-20 11:50:21 11548 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-04-20 11:50:21 11548 [Note] InnoDB: Using generic crc32 instructions
+2017-04-20 11:50:21 11548 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-04-20 11:50:21 11548 [Note] InnoDB: Completed initialization of buffer pool
+2017-04-20 11:50:21 11548 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-04-20 11:50:21 11548 [Note] InnoDB: The log sequence numbers 1835037 and 1835037 in ibdata files do not match the log sequence number 1918660 in the ib_logfiles!
+2017-04-20 11:50:21 11548 [Note] InnoDB: Database was not shutdown normally!
+2017-04-20 11:50:21 11548 [Note] InnoDB: Starting crash recovery.
+2017-04-20 11:50:21 11548 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-04-20 11:50:21 11548 [Note] InnoDB: Restoring possible half-written data pages 
+2017-04-20 11:50:21 11548 [Note] InnoDB: from the doublewrite buffer...
+2017-04-20 11:50:21 2d1c  InnoDB: Error: table 'mine_craft_mods/category'
+InnoDB: in InnoDB data dictionary has tablespace id 46,
+InnoDB: but a tablespace with that id does not exist. There is
+InnoDB: a tablespace of name mine_craft_mods/category and id 40, though. Have
+InnoDB: you deleted or moved .ibd files?
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+2017-04-20 11:50:21 2d1c  InnoDB: Error: table 'mine_craft_mods/comment'
+InnoDB: in InnoDB data dictionary has tablespace id 47,
+InnoDB: but a tablespace with that id does not exist. There is
+InnoDB: a tablespace of name mine_craft_mods/comment and id 41, though. Have
+InnoDB: you deleted or moved .ibd files?
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+2017-04-20 11:50:21 2d1c  InnoDB: Error: table 'mine_craft_mods/item'
+InnoDB: in InnoDB data dictionary has tablespace id 48,
+InnoDB: but a tablespace with that id does not exist. There is
+InnoDB: a tablespace of name mine_craft_mods/item and id 42, though. Have
+InnoDB: you deleted or moved .ibd files?
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+2017-04-20 11:50:21 2d1c  InnoDB: Error: table 'mine_craft_mods/item_type'
+InnoDB: in InnoDB data dictionary has tablespace id 49,
+InnoDB: but the tablespace with that id has name mine_craft_mods/home_hot_news.
+InnoDB: Have you deleted or moved .ibd files?
+InnoDB: There is a tablespace with the right name
+InnoDB: 'mine_craft_mods/item_type', but its id is 43.
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+2017-04-20 11:50:21 11548 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-04-20 11:50:21 11548 [Note] InnoDB: Waiting for purge to start
+2017-04-20 11:50:21 11548 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1918660
+2017-04-20 11:50:21 12152 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-04-20 11:50:21 11548 [Note] Plugin 'FEEDBACK' is disabled.
+2017-04-20 11:50:21 11548 [Note] Server socket created on IP: '::'.
+2017-04-20 11:50:21 11548 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2017-04-20 11:50:27 13176 [ERROR] InnoDB: Failed to find tablespace for table '"mine_craft_mods"."category"' in the cache. Attempting to load the tablespace with space id 46.
+2017-04-20 11:50:27 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:50:37 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:50:47 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:50:57 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:51:07 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:51:17 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:51:27 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:51:37 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:51:47 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:51:57 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:52:07 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:52:10 3864 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:52:10 3864 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:52:17 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:52:27 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:52:37 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:52:47 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:52:57 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:53:07 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:53:17 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:53:27 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:53:37 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:53:47 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:53:54 3492 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:53:54 3492 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:53:57 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:54:07 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:54:17 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:54:27 3378  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+InnoDB: Warning: a long semaphore wait:
+--Thread 3724 has waited at srv0srv.cc line 2829 for 241.00 seconds the semaphore:
+Mutex at 04A06DB0 '&dict_sys->mutex', lock var 1
+Last time reserved by thread 13176 in file not yet reserved line 0, waiters flag 1
+InnoDB: Warning: semaphore wait:
+--Thread 3724 has waited at srv0srv.cc line 2829 for 241.00 seconds the semaphore:
+Mutex at 04A06DB0 '&dict_sys->mutex', lock var 1
+Last time reserved by thread 13176 in file not yet reserved line 0, waiters flag 1
+InnoDB: Warning: semaphore wait:
+--Thread 13204 has waited at dict0dict.cc line 1172 for 236.00 seconds the semaphore:
+Mutex at 04A06DB0 '&dict_sys->mutex', lock var 1
+Last time reserved by thread 13176 in file not yet reserved line 0, waiters flag 1
+InnoDB: Warning: semaphore wait:
+--Thread 9624 has waited at dict0dict.cc line 1172 for 188.00 seconds the semaphore:
+Mutex at 04A06DB0 '&dict_sys->mutex', lock var 1
+Last time reserved by thread 13176 in file not yet reserved line 0, waiters flag 1
+InnoDB: Warning: semaphore wait:
+--Thread 3864 has waited at dict0dict.cc line 1172 for 101.00 seconds the semaphore:
+Mutex at 04A06DB0 '&dict_sys->mutex', lock var 1
+Last time reserved by thread 13176 in file not yet reserved line 0, waiters flag 1
+InnoDB: Warning: semaphore wait:
+--Thread 8280 has waited at dict0dict.cc line 1172 for 44.000 seconds the semaphore:
+Mutex at 04A06DB0 '&dict_sys->mutex', lock var 1
+Last time reserved by thread 13176 in file not yet reserved line 0, waiters flag 1
+InnoDB: ###### Starts InnoDB Monitor for 30 secs to print diagnostic info:
+InnoDB: Pending preads 0, pwrites 0
+2017-04-20 11:54:43 24a4 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2017-04-20 11:54:43 9380 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-04-20 11:54:43 9380 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-04-20 11:54:43 9380 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-04-20 11:54:43 9380 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2017-04-20 11:54:43 9380 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2017-04-20 11:54:43 9380 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-04-20 11:54:43 9380 [Note] InnoDB: Using generic crc32 instructions
+2017-04-20 11:54:43 9380 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-04-20 11:54:43 9380 [Note] InnoDB: Completed initialization of buffer pool
+2017-04-20 11:54:43 9380 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-04-20 11:54:43 9380 [Note] InnoDB: The log sequence numbers 1835037 and 1835037 in ibdata files do not match the log sequence number 1918670 in the ib_logfiles!
+2017-04-20 11:54:43 9380 [Note] InnoDB: Database was not shutdown normally!
+2017-04-20 11:54:43 9380 [Note] InnoDB: Starting crash recovery.
+2017-04-20 11:54:43 9380 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-04-20 11:54:43 9380 [Note] InnoDB: Restoring possible half-written data pages 
+2017-04-20 11:54:43 9380 [Note] InnoDB: from the doublewrite buffer...
+2017-04-20 11:54:43 9380 [ERROR] InnoDB: Table mine_craft_mods/category in the InnoDB data dictionary has tablespace id 46, but tablespace with that id or name does not exist. Have you deleted or moved .ibd files? This may also be a table created with CREATE TEMPORARY TABLE whose .ibd and .frm files MySQL automatically removed, but the table still exists in the InnoDB internal data dictionary.
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+2017-04-20 11:54:43 9380 [ERROR] InnoDB: Table mine_craft_mods/comment in the InnoDB data dictionary has tablespace id 47, but tablespace with that id or name does not exist. Have you deleted or moved .ibd files? This may also be a table created with CREATE TEMPORARY TABLE whose .ibd and .frm files MySQL automatically removed, but the table still exists in the InnoDB internal data dictionary.
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+2017-04-20 11:54:43 9380 [ERROR] InnoDB: Table mine_craft_mods/item in the InnoDB data dictionary has tablespace id 48, but tablespace with that id or name does not exist. Have you deleted or moved .ibd files? This may also be a table created with CREATE TEMPORARY TABLE whose .ibd and .frm files MySQL automatically removed, but the table still exists in the InnoDB internal data dictionary.
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+2017-04-20 11:54:43 9380 [ERROR] InnoDB: Table mine_craft_mods/item_type in the InnoDB data dictionary has tablespace id 49, but tablespace with that id or name does not exist. Have you deleted or moved .ibd files? This may also be a table created with CREATE TEMPORARY TABLE whose .ibd and .frm files MySQL automatically removed, but the table still exists in the InnoDB internal data dictionary.
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+2017-04-20 11:54:43 9380 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-04-20 11:54:43 9380 [Note] InnoDB: Waiting for purge to start
+2017-04-20 11:54:43 9380 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1918670
+2017-04-20 11:54:43 3324 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-04-20 11:54:43 9380 [Note] Plugin 'FEEDBACK' is disabled.
+2017-04-20 11:54:43 9380 [Note] Server socket created on IP: '::'.
+2017-04-20 11:54:43 9380 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2017-04-20 11:54:57 1372 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:54:57 1372 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:55:21 2e10 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2017-04-20 11:55:21 11792 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-04-20 11:55:21 11792 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-04-20 11:55:21 11792 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-04-20 11:55:21 11792 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2017-04-20 11:55:21 11792 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2017-04-20 11:55:21 11792 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-04-20 11:55:21 11792 [Note] InnoDB: Using generic crc32 instructions
+2017-04-20 11:55:21 11792 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-04-20 11:55:21 11792 [Note] InnoDB: Completed initialization of buffer pool
+2017-04-20 11:55:21 11792 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-04-20 11:55:21 11792 [Note] InnoDB: The log sequence numbers 1835037 and 1835037 in ibdata files do not match the log sequence number 1919137 in the ib_logfiles!
+2017-04-20 11:55:21 11792 [Note] InnoDB: Database was not shutdown normally!
+2017-04-20 11:55:21 11792 [Note] InnoDB: Starting crash recovery.
+2017-04-20 11:55:21 11792 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-04-20 11:55:21 11792 [Note] InnoDB: Restoring possible half-written data pages 
+2017-04-20 11:55:21 11792 [Note] InnoDB: from the doublewrite buffer...
+2017-04-20 11:55:21 11792 [ERROR] InnoDB: Table mine_craft_mods/category in the InnoDB data dictionary has tablespace id 46, but tablespace with that id or name does not exist. Have you deleted or moved .ibd files? This may also be a table created with CREATE TEMPORARY TABLE whose .ibd and .frm files MySQL automatically removed, but the table still exists in the InnoDB internal data dictionary.
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+2017-04-20 11:55:21 11792 [ERROR] InnoDB: Table mine_craft_mods/comment in the InnoDB data dictionary has tablespace id 47, but tablespace with that id or name does not exist. Have you deleted or moved .ibd files? This may also be a table created with CREATE TEMPORARY TABLE whose .ibd and .frm files MySQL automatically removed, but the table still exists in the InnoDB internal data dictionary.
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+2017-04-20 11:55:21 11792 [ERROR] InnoDB: Table mine_craft_mods/item in the InnoDB data dictionary has tablespace id 48, but tablespace with that id or name does not exist. Have you deleted or moved .ibd files? This may also be a table created with CREATE TEMPORARY TABLE whose .ibd and .frm files MySQL automatically removed, but the table still exists in the InnoDB internal data dictionary.
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+2017-04-20 11:55:21 11792 [ERROR] InnoDB: Table mine_craft_mods/item_type in the InnoDB data dictionary has tablespace id 49, but tablespace with that id or name does not exist. Have you deleted or moved .ibd files? This may also be a table created with CREATE TEMPORARY TABLE whose .ibd and .frm files MySQL automatically removed, but the table still exists in the InnoDB internal data dictionary.
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+2017-04-20 11:55:21 11792 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-04-20 11:55:21 11792 [Note] InnoDB: Waiting for purge to start
+2017-04-20 11:55:21 11792 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1919137
+2017-04-20 11:55:21 8564 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-04-20 11:55:21 11792 [Note] Plugin 'FEEDBACK' is disabled.
+2017-04-20 11:55:21 11792 [Note] Server socket created on IP: '::'.
+2017-04-20 11:55:21 11792 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2017-04-20 11:55:27 2376 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:55:27 2376 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:55:48 10304 [ERROR] InnoDB: Failed to find tablespace for table '"mine_craft_mods"."category"' in the cache. Attempting to load the tablespace with space id 46.
+2017-04-20 11:55:48 2840  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2017-04-20 11:55:48 10304 [ERROR] InnoDB: Could not find a valid tablespace file for 'mine_craft_mods/category'. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html for how to resolve the issue.
+2017-04-20 11:55:48 10304 [Warning] InnoDB: Orphan table encountered during DROP DATABASE. This is possible if 'mine_craft_mods/category.frm' was lost.
+2017-04-20 11:55:48 10304 [Warning] InnoDB: Missing mine_craft_mods/category.ibd file for table mine_craft_mods/category.
+2017-04-20 11:55:48 10304 [ERROR] InnoDB: Failed to find tablespace for table '"mine_craft_mods"."comment"' in the cache. Attempting to load the tablespace with space id 47.
+2017-04-20 11:55:48 2840  InnoDB: Operating system error number 2 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/operating-system-error-codes.html
+2017-04-20 11:55:48 10304 [ERROR] InnoDB: Could not find a valid tablespace file for 'mine_craft_mods/comment'. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html for how to resolve the issue.
+2017-04-20 11:55:48 10304 [Warning] InnoDB: Orphan table encountered during DROP DATABASE. This is possible if 'mine_craft_mods/comment.frm' was lost.
+2017-04-20 11:55:48 10304 [Warning] InnoDB: Missing mine_craft_mods/comment.ibd file for table mine_craft_mods/comment.
+2017-04-20 11:55:48 10304 [ERROR] InnoDB: Failed to find tablespace for table '"mine_craft_mods"."item"' in the cache. Attempting to load the tablespace with space id 48.
+2017-04-20 11:55:48 2840  InnoDB: Operating system error number 2 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/operating-system-error-codes.html
+2017-04-20 11:55:48 10304 [ERROR] InnoDB: Could not find a valid tablespace file for 'mine_craft_mods/item'. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html for how to resolve the issue.
+2017-04-20 11:55:48 10304 [Warning] InnoDB: Orphan table encountered during DROP DATABASE. This is possible if 'mine_craft_mods/item.frm' was lost.
+2017-04-20 11:55:48 10304 [Warning] InnoDB: Missing mine_craft_mods/item.ibd file for table mine_craft_mods/item.
+2017-04-20 11:55:48 10304 [ERROR] InnoDB: Failed to find tablespace for table '"mine_craft_mods"."item_type"' in the cache. Attempting to load the tablespace with space id 49.
+2017-04-20 11:55:48 2840  InnoDB: Operating system error number 2 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/operating-system-error-codes.html
+2017-04-20 11:55:48 10304 [ERROR] InnoDB: Could not find a valid tablespace file for 'mine_craft_mods/item_type'. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting-datadict.html for how to resolve the issue.
+2017-04-20 11:55:48 10304 [Warning] InnoDB: Orphan table encountered during DROP DATABASE. This is possible if 'mine_craft_mods/item_type.frm' was lost.
+2017-04-20 11:55:48 10304 [Warning] InnoDB: Missing mine_craft_mods/item_type.ibd file for table mine_craft_mods/item_type.
+2017-04-20 11:56:23 21c4 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2017-04-20 11:56:23 8644 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-04-20 11:56:23 8644 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-04-20 11:56:23 8644 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-04-20 11:56:23 8644 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2017-04-20 11:56:23 8644 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2017-04-20 11:56:23 8644 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-04-20 11:56:23 8644 [Note] InnoDB: Using generic crc32 instructions
+2017-04-20 11:56:23 8644 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-04-20 11:56:23 8644 [Note] InnoDB: Completed initialization of buffer pool
+2017-04-20 11:56:23 8644 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-04-20 11:56:23 8644 [Note] InnoDB: The log sequence numbers 1835037 and 1835037 in ibdata files do not match the log sequence number 1934215 in the ib_logfiles!
+2017-04-20 11:56:23 8644 [Note] InnoDB: Database was not shutdown normally!
+2017-04-20 11:56:23 8644 [Note] InnoDB: Starting crash recovery.
+2017-04-20 11:56:23 8644 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-04-20 11:56:23 8644 [Note] InnoDB: Restoring possible half-written data pages 
+2017-04-20 11:56:23 8644 [Note] InnoDB: from the doublewrite buffer...
+2017-04-20 11:56:23 8644 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-04-20 11:56:23 8644 [Note] InnoDB: Waiting for purge to start
+2017-04-20 11:56:23 8644 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1934215
+2017-04-20 11:56:23 13192 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-04-20 11:56:23 8644 [Note] Plugin 'FEEDBACK' is disabled.
+2017-04-20 11:56:23 8644 [Note] Server socket created on IP: '::'.
+2017-04-20 11:56:23 8644 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2017-04-20 11:57:33 6592 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:57:33 6592 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:57:33 6592 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:57:33 6592 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:57:33 6592 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:57:33 6592 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:57:33 6592 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'min_value' at position 3 to have type varbinary(255), found type varchar(255).
+2017-04-20 11:57:33 6592 [ERROR] Incorrect definition of table mysql.column_stats: expected column 'max_value' at position 4 to have type varbinary(255), found type varchar(255).
+2017-04-20 13:06:58 5320 [Note] InnoDB: Online DDL : Start
+2017-04-20 13:06:58 5320 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-04-20 13:06:58 5320 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-04-20 13:06:58 5320 [Note] InnoDB: Online DDL : Completed
+2017-04-20 13:21:51 2794 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2017-04-20 13:21:51 10132 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-04-20 13:21:51 10132 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-04-20 13:21:51 10132 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-04-20 13:21:51 10132 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2017-04-20 13:21:51 10132 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2017-04-20 13:21:51 10132 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-04-20 13:21:51 10132 [Note] InnoDB: Using generic crc32 instructions
+2017-04-20 13:21:51 10132 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-04-20 13:21:51 10132 [Note] InnoDB: Completed initialization of buffer pool
+2017-04-20 13:21:51 10132 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-04-20 13:21:51 10132 [Note] InnoDB: The log sequence numbers 1835037 and 1835037 in ibdata files do not match the log sequence number 1983915 in the ib_logfiles!
+2017-04-20 13:21:51 10132 [Note] InnoDB: Database was not shutdown normally!
+2017-04-20 13:21:51 10132 [Note] InnoDB: Starting crash recovery.
+2017-04-20 13:21:51 10132 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-04-20 13:21:51 10132 [Note] InnoDB: Restoring possible half-written data pages 
+2017-04-20 13:21:51 10132 [Note] InnoDB: from the doublewrite buffer...
+2017-04-20 13:21:52 10132 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-04-20 13:21:52 10132 [Note] InnoDB: Waiting for purge to start
+2017-04-20 13:21:52 10132 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1983915
+2017-04-20 13:21:52 11788 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-04-20 13:21:52 10132 [Note] Plugin 'FEEDBACK' is disabled.
+2017-04-20 13:21:52 10132 [Note] Server socket created on IP: '::'.
+2017-04-20 13:21:52 10132 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.21-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
